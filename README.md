@@ -52,20 +52,20 @@ By the final review, this README should clearly show:
 # 1. Team Identity
 
 ## 1.1 Studio / Group Name
-`[Enter your group name]`
+Audio Reactive Music MIDI Controller 
 
 ## 1.2 Team Members
 
 | Name | Primary Role | Secondary Role | Strengths Brought to the Project |
 |---|---|---|---|
-| `[Student 1]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
-| `[Student 2]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
+| Manasvi D. | Electronics and Coding  | Physical Presentation  | Circuit Building  |
+| Sanvi T. | Software manipulation  | Creating initial testing versions  | Musical understanding ` |
 
 ## 1.3 Project Title
-`[Enter the title of your project]`
+Audio Reactive Music MIDI Controller 
 
 ## 1.4 One-Line Pitch
-`[Describe your project in one sentence]`
+A MIDI Controller made from scratch that can help you create music using looping tracks and then see it corresponding to audio reactive visuals.  `
 
 ## 1.5 Expanded Project Idea
 In 1–2 paragraphs, explain:
@@ -75,9 +75,9 @@ In 1–2 paragraphs, explain:
 - what technologies are involved.
 
 **Response:**  
-`[Write here]`
+Our project is an interactive music-making experience where users create and explore their own sound using a custom MIDI controller. They can switch between instruments, layer beats, and experiment with rhythms in an intuitive way, with no prior musical experience needed. The controller interfaces with Ableton Live, enabling real-time sound generation and flexible music creation. 
 
----
+What makes it engaging is the instant audio-visual feedback: as users build their beats, their music is visualized in real time, making the process both satisfying and immersive. The project combines a custom MIDI controller, Ableton Live for music production, and TouchDesigner for dynamic visuals, blending physical interaction, sound, and visuals into a playful creative system. 
 
 # 2. Philosophy Fit
 
@@ -101,7 +101,7 @@ Answer the following:
 - Why would someone want to try it again?
 
 **Response:**  
-`[Write here]`
+This project places the user in the role of a DJ or live music performer, where their beats are paired with dynamic, captivating visuals to create a mini concert experience. It builds an immersive and playful environment where users feel in control of their performance and creative output. The experience encourages them to return, experiment with new beats, and discover how each change transforms the visuals in real time. 
 
 ## 2.3 Design Persona
 Complete the sentence below:
@@ -109,7 +109,7 @@ Complete the sentence below:
 > We are designing this project as if we are a small creative studio making a **[toy / game / playable object / interactive experience]** for **[children / teens / adults / classmates / exhibition visitors / mixed audience]**.
 
 **Response:**  
-`[Write here]`
+We are designing this project as if we were a small design studio making an interactive experience for exhibition visitors to experiment with.  
 
 ---
 
@@ -120,15 +120,14 @@ List what inspired the project.
 
 | Source Type | Title / Link | What Inspired You |
 |---|---|---|
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
+| Ed Sheeran Looping Pedal Live performances.   | `[Link or title]` |Borrowed how he adds different tracks live to create a musical experience  |
+|Live Audio-reactive visuals   | `[Link or title]` |The act of live music controlling visuals |
 
 ## 3.2 Original Twist
 What makes your project original?
 
 **Response:**  
-`[Write here]`
+Combining live sets with visuals is not a common concept, and we decided to make music looping more accessible to non-professional artists.  
 
 ---
 
@@ -144,29 +143,29 @@ Examples:
 - move object → sensor detects → sound/light response → player reacts
 
 **Response:**  
-`[Write here]`
+Press instrument button → Press same button again to activate loop recording → Press the keynotes to create beat → Press another instrument [if you want to add] → Repeat same steps → Once done creating the beat, press instrument buttons to clear recorded beat 
 
 ## 4.2 Intended Player / Audience
 
 | Question | Response |
 |---|---|
-| Who is this for? | `[Write here]` |
-| Age range | `[Write here]` |
-| Solo or multiplayer | `[Write here]` |
-| Expected duration of one round | `[Write here]` |
-| What should the player feel? | `[Write here]` |
-| Is explanation required before use? | `[Write here]` |
+| Who is this for? | Exhibition visitors  |
+| Age range | 12+|
+| Solo or multiplayer |Solo|
+| Expected duration of one round |3-4min|
+| What should the player feel? |Immersed, creative, accomplished |
+| Is explanation required before use? |Yes|
 
 ## 4.3 Player Journey
 Describe exactly how a player will use the project.
 
-1. **Approach:** `[How does the player first encounter it?]`
-2. **Start:** `[How do they begin?]`
-3. **First Action:** `[What do they do first?]`
-4. **Main Interaction:** `[What keeps happening during use?]`
-5. **System Response:** `[How does the project respond?]`
-6. **Win / Lose / End Condition:** `[How does one round end?]`
-7. **Reset:** `[How does the next round begin?]`
+1. **Approach:**  The player begins in front of a dormant visual display, with a custom music control unit placed on the table. 
+2. **Start:** The interaction begins by creating the first looping track.
+3. **First Action:** The player selects instruments using dedicated buttons to activate individual tracks.
+4. **Main Interaction:** Beats and melodies are built layer by layer, with each track looping continuously in real time.
+5. **System Response:** The audio plays and evolves through loops while the visuals dynamically respond and adapt to the sound. 
+6. **Win / Lose / End Condition:** The session concludes once the complete music composition is formed, and the visuals fully respond to the final output.
+7. **Reset:** A new round begins by clearing all active loops, allowing the user to start a fresh composition. 
 
 ## 4.4 Rules of Play
 If your project is a game, list the rules clearly.
@@ -183,25 +182,20 @@ If your project is a game, list the rules clearly.
 ## 5.1 Definition of “Playable”
 Your project will be considered complete only if these conditions are met.
 
-- [ ] `[Condition 1]`
-- [ ] `[Condition 2]`
-- [ ] `[Condition 3]`
-- [ ] `[Condition 4]`
-- [ ] `[Condition 5]`
+Music track is completed and looping 
+The visuals react to the music in real time 
 
 ## 5.2 Minimum Viable Version
 What is the smallest version of this project that still delivers the core experience?
 
-**Response:**  
-`[Write here]`
+One instrument track (ex. Piano) sends musical notes through buttons, and a basic visual reacts to them.  
 
 ## 5.3 Stretch Features
 What features are nice to have but not essential?
 
-- `[Stretch feature 1]`
-- `[Stretch feature 2]`
-- `[Stretch feature 3]`
-
+Multiple instrument tracks (beyond the base instrument) 
+Adding audio effects to beats created, i.e. reverb, delay, auto filter, etc. 
+More advanced or detailed visual reactions in Touch Designer 
 ---
 
 # 6. System Overview
@@ -209,18 +203,13 @@ What features are nice to have but not essential?
 ## 6.1 Project Type
 Check all that apply.
 
-- [ ] Electronics-based
-- [ ] Mechanical
-- [ ] Sensor-based
-- [ ] App-connected
-- [ ] Motorized
-- [ ] Sound-based
-- [ ] Light-based
-- [ ] Screen/UI-based
-- [ ] Fabricated structure
-- [ ] Game logic based
-- [ ] Installation / tabletop experience
-- [ ] Other: `[Write here]`
+Electronics-based 
+Mechanical 
+Sound-based 
+Screen/UI-based 
+Fabricated structure
+Installation / tabletop experience 
+Other: Audioreactive Visuals 
 
 ## 6.2 High-Level System Description
 Explain how the system works in simple terms.
@@ -233,17 +222,17 @@ Include:
 - app interaction if any.
 
 **Response:**  
-`[Write here]`
+When the user presses a button on the physical controller, the input is detected through an ESP32 running MicroPython in Thonny, using a BLE Keyboard library. This input is sent as keyboard signals to the computer. In Ableton Live, each sound or function is mapped to specific keyboard keys, so the received input triggers the corresponding instrument or sound. 
+
+The system works on a simple mapping flow: physical button → ESP32 → keyboard signal → Ableton Live → audio output. The result is real-time sound generation based on user interaction 
 
 ## 6.3 Input / Output Map
 
 | System Part | Type | What It Does |
 |---|---|---|
-| `[Button / Sensor / Switch / App Input]` | Input | `[Describe]` |
-| `[ESP32 / Controller]` | Processing | `[Describe]` |
-| `[LED / Motor / Servo / Buzzer / Display]` | Output | `[Describe]` |
-| `[Mechanical Assembly]` | Physical Action | `[Describe]` |
-
+|ESP32 / Controller | Processing  |Transmits input messages to output components  |
+|LED / Sound / Display | Output  |LED- loop recording indicator; Sound- created music track; Display- Visual presentation of music track | 
+|Mechanical Assembly  |Physical Action |NA|
 ---
 
 # 7. Sketches and Visual Planning
@@ -252,7 +241,6 @@ Include:
 Add an early sketch of the full idea.
 
 **Insert image below:**  
-`[Upload image and link here]`
 
 Example:
 ```md
@@ -274,10 +262,10 @@ Add a sketch with labels showing:
 
 | Dimension | Value |
 |---|---|
-| Length | `[Write here]` |
-| Width | `[Write here]` |
-| Height | `[Write here]` |
-| Estimated weight | `[Write here]` |
+| Length |9 in.|
+| Width |7 in. |
+| Height |3 in.|
+| Estimated weight |500 gm |
 
 ---
 
@@ -338,15 +326,16 @@ What changed after the CAD, animation, or simulation stage?
 
 | Component | Quantity | Purpose |
 |---|---:|---|
-| `[ESP32]` | `1` | `[Main controller]` |
-| `[Component]` | `[Qty]` | `[Purpose]` |
-| `[Component]` | `[Qty]` | `[Purpose]` |
+|[ESP32] | 1 |Main controller|
+|Push Button| 13 |Controlling the musical notes/beats and initiating/creating the loop|
+|LED | 1 |Indicates if the loop recording has started|
 
 ## 9.2 Wiring Plan
 Describe the main electrical connections.
 
 **Response:**  
-`[Write here]`
+Buttons are connected various pins on ESP-32 
+LED Bulb connected to ESP32 
 
 ## 9.3 Circuit Diagram
 Insert a hand-drawn or software-made circuit diagram.
@@ -358,10 +347,10 @@ Insert a hand-drawn or software-made circuit diagram.
 
 | Question | Response |
 |---|---|
-| Power source | `[USB / battery / adapter / other]` |
-| Voltage required | `[Write here]` |
-| Current concerns | `[Write here]` |
-| Safety concerns | `[Write here]` |
+| Power source |USB|
+| Voltage required |3V|
+| Current concerns |Low power consumption overall, but unstable USB connections or insufficient power supply from some ports may cause intermittent disconnections of the ESP32. |
+| Safety concerns |Accidentally soldering buttons incorrectly and damaging ESP-32 |
 
 ---
 
@@ -371,8 +360,11 @@ Insert a hand-drawn or software-made circuit diagram.
 
 | Tool / Platform | Purpose |
 |---|---|
-| `[MicroPython / Arduino / MIT App Inventor / CAD tool / other]` | `[Purpose]` |
-| `[Tool]` | `[Purpose]` |
+|MicroPython Thonny |Thonny-Running Code and ESP32 |
+|Ableton Live |MIDI controller outputs and instrumental track loop arrangement |
+|Touchdesigner |Connecting music track components to visual manipulations |
+|Adobe Illustrator |Used to create precise vector design files for laser cutting the MIDI controller setup|
+|Rhino |Used to create precise vector design files for laser cutting the MIDI controller setup|
 
 ## 10.2 Software Logic
 Describe what the code must do.
@@ -387,7 +379,54 @@ Include:
 - reset behavior.
 
 **Response:**  
-`[Write here]`
+The software logic governs how the controller initializes, processes user inputs, and communicates with external software such as Ableton Live and TouchDesigner. 
+
+ 
+
+Startup Behavior: 
+When the system is powered on, the ESP32 initializes all GPIO pins for input (buttons) and output (LEDs). The Bluetooth module is activated, and the device begins advertising itself as a wireless input controller. Default states are assigned to all buttons and LEDs to ensure no unintended signals are sent during initialization. 
+
+ 
+
+Input Handling: 
+The system continuously scans the state of each button using a loop. Each button is configured with a pull-up resistor, meaning a press is detected when the signal changes from HIGH to LOW. The current state is compared with the previous state to detect valid press events (edge detection), preventing repeated triggering while a button is held down. 
+
+ 
+
+Decision Logic: 
+Based on the detected input, the system determines the appropriate action. For example: 
+
+A single button press triggers a specific key or command.  
+
+Sequential presses (such as first press, second press) are tracked using state variables.  
+
+Conditional logic is used to control LED behavior (e.g., blinking sequence, steady ON state). 
+This ensures that each interaction produces a predictable and controlled response.  
+
+ 
+
+Output Behavior: 
+Outputs are handled in two ways: 
+
+Digital Output (LEDs): LEDs provide visual feedback based on system state, such as blinking during active phases or remaining ON to indicate a stable state.  
+
+Software Output (Input Signals): The ESP32 sends keyboard/MIDI-like signals via Bluetooth, which are received by Ableton Live to trigger sounds, loops, or effects.  
+
+ 
+
+Communication Logic: 
+The controller communicates wirelessly via Bluetooth Low Energy (BLE). Input signals are transmitted as keyboard or MIDI messages. Ableton Live processes these inputs to generate audio, which is then routed internally to TouchDesigner using virtual audio drivers. This enables synchronized audio-visual output. 
+
+ 
+
+Reset Behavior: 
+The system resets under two conditions: 
+
+Manual reset (power cycle): All states return to default, and Bluetooth reconnects.  
+
+Logical reset: Certain interaction sequences (e.g., repeated button cycles) reset LED patterns and input states to prevent unintended looping or stuck states.  
+
+This ensures stable operation during continuous use. 
 
 ## 10.3 Code Flowchart
 Insert a flowchart showing your code logic.
@@ -406,10 +445,157 @@ Suggested sequence:
 `[Upload image and link here]`
 
 ## 10.4 Pseudocode
+INITIALIZE Bluetooth keyboard with name "ESPMIDIMS" 
 
-```text
-[Write your pseudocode here]
-```
+  
+
+INITIALIZE LED as OUTPUT 
+
+  
+
+INITIALIZE performance buttons (A–L) as INPUT with pull-up resistors 
+
+STORE last state of each performance key as HIGH 
+
+  
+
+INITIALIZE 4 control buttons as INPUT with pull-up resistors 
+
+STORE last state of each control button as HIGH 
+
+SET control state of each button = 0 
+
+  
+
+DEFINE control actions as: 
+
+    Button 1 → [q, n, m] 
+
+    Button 2 → [r, 2, 3] 
+
+    Button 3 → [i, 4, 5] 
+
+    Button 4 → [b, 6, 7] 
+
+  
+
+PRINT "Controller Ready" 
+
+  
+
+  
+
+FUNCTION blink_LED: 
+
+    REPEAT 4 times: 
+
+        TURN LED ON 
+
+        WAIT 0.5 seconds 
+
+        TURN LED OFF 
+
+        WAIT 0.5 seconds 
+
+    TURN LED ON (stay ON) 
+
+  
+
+  
+
+LOOP forever: 
+
+  
+
+    IF Bluetooth is connected: 
+
+  
+
+        // ------------------------- 
+
+        // PERFORMANCE KEYS 
+
+        // ------------------------- 
+
+        FOR each key in performance keys: 
+
+  
+
+            READ current state 
+
+  
+
+            IF key is PRESSED (LOW) AND last state was NOT PRESSED (HIGH): 
+
+                SEND corresponding key via Bluetooth 
+
+                WAIT 40 ms 
+
+  
+
+            UPDATE last state 
+
+  
+
+  
+
+        // ------------------------- 
+
+        // CONTROL BUTTONS 
+
+        // ------------------------- 
+
+        FOR each control button (index i): 
+
+  
+
+            READ current state 
+
+  
+
+            IF button is PRESSED (LOW) AND last state was HIGH: 
+
+  
+
+                WAIT 50 ms (debounce) 
+
+  
+
+                IF still PRESSED: 
+
+  
+
+                    IF control state == 1: 
+
+                        CALL blink_LED 
+
+  
+
+                    SELECT action from CONTROL_ACTIONS using control state 
+
+                    SEND action via Bluetooth 
+
+  
+
+                    UPDATE control state: 
+
+                        (state = (state + 1) mod 3) 
+
+  
+
+                    PRINT which button and action sent 
+
+  
+
+                    WAIT 150 ms 
+
+  
+
+            UPDATE last control state 
+
+  
+
+    WAIT 20 ms
 
 ---
 
@@ -465,8 +651,9 @@ Insert a sketch or screenshot of the app interface.
 | Item | Quantity | In Kit? | Need to Buy? | Estimated Cost | Material / Spec | Why This Choice? |
 |---|---:|---|---|---:|---|---|
 | `[ESP32]` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
-| `[Item]` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
-| `[Item]` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
+|Push Buttons|13|No (not the kind we needed) |Yes|Rs. 400| Not producing click sound when pressed  |Smoother interaction than provided push buttons|
+|LED Bulb |1|Yes|0| `[Spec]` | `[Reason]` |
+|Jumper Wire|35|No|0| `[Spec]` | `[Reason]` |
 
 ## 12.2 Material Justification
 Explain why you selected your main materials and components.
@@ -478,31 +665,33 @@ Examples:
 - Why bearing instead of a plain shaft hole?
 
 **Response:**  
-`[Write here]`
+We chose MDF for the base structure because it is strong, stable, and cost-effective compared to 3D printing large parts. It is easier to laser cut for flat structural components and provides good rigidity to hold the electronics securely. 
+
+We used push buttons instead of more complex input components like rotary encoders or touch sensors because they are simple, reliable, and provide clear tactile feedback, making the interaction more intuitive for users. 
 
 ## 12.3 Items to Purchase Separately
 
 | Item | Why Needed | Purchase Link | Latest Safe Date to Procure | Status |
 |---|---|---|---|---|
-| `[Item]` | `[Reason]` | `[Link]` | `[Date]` | `[Pending / Ordered / Received]` |
-| `[Item]` | `[Reason]` | `[Link]` | `[Date]` | `[Pending / Ordered / Received]` |
+|Push Buttons |Push Buttons  | NA (Nimesh Electronics)  |10th March |Received|
+
 
 ## 12.4 Budget Summary
 
 | Budget Item | Estimated Cost |
 |---|---:|
-| Electronics | `[Cost]` |
-| Mechanical parts | `[Cost]` |
-| Fabrication materials | `[Cost]` |
-| Purchased extras | `[Cost]` |
-| Contingency | `[Cost]` |
-| **Total** | `[Cost]` |
+| Electronics | Rs. 400|
+| Mechanical parts |NA|
+| Fabrication materials |NA|
+| Purchased extras |NA|
+| Contingency |Rs.150|
+| **Total** |Rs.550|
 
 ## 12.5 Budget Reflection
 If your cost is too high, what can be simplified, removed, substituted, or shared?
 
 **Response:**  
-`[Write here]`
+NA
 
 ---
 
@@ -519,7 +708,41 @@ Include:
 - how documentation will be maintained.
 
 **Response:**  
-`[Write here]`
+Team Working Strategy 
+
+The project is executed through a collaborative approach where responsibilities are divided based on individual strengths, while still allowing overlap for support and flexibility. 
+
+ 
+
+Task Division: 
+
+Tasks are primarily divided according to expertise. Manasvi leads electronics and coding, focusing on circuit building and implementing the core logic. Sanvi leads software-related work, handling interaction with Ableton Live and TouchDesigner, along with initial testing and musical mapping. 
+
+Both members support each other in secondary roles to ensure continuity and shared understanding of the system. 
+
+ 
+
+Decision Making: 
+
+Decisions are made collaboratively through discussion and testing. Ideas are evaluated based on functionality, user experience, and feasibility. In case of differing opinions, small prototypes or trials are created to test outcomes, and the most effective solution is selected. 
+
+ 
+
+Progress Tracking: 
+
+Progress is monitored through regular check-ins and testing sessions. Each module (electronics, coding, software integration) is tested individually and then combined to evaluate overall system performance. Milestones are set for key stages such as input detection, sound triggering, and audio-visual synchronization. 
+
+ 
+
+Handling Delays: 
+
+If a task is delayed, responsibilities are adjusted temporarily. The support owner assists in completing the pending task to maintain workflow continuity. Simpler alternatives or workarounds are also considered to avoid blocking the overall progress of the project. 
+
+ 
+
+Documentation Maintenance: 
+
+Documentation is primarily managed by Sanvi, with support from Manasvi. All stages of the project, including concept development, circuit design, code logic, and testing outcomes, are recorded regularly. Updates are made alongside development to ensure accuracy and completeness, rather than being compiled at the end. 
 
 ## 13.2 Task Breakdown
 
@@ -538,13 +761,12 @@ Include:
 
 | Area | Main Owner | Support Owner |
 |---|---|---|
-| Concept and gameplay | `[Name]` | `[Name]` |
-| Electronics | `[Name]` | `[Name]` |
-| Coding | `[Name]` | `[Name]` |
-| App | `[Name]` | `[Name]` |
-| Mechanical build | `[Name]` | `[Name]` |
-| Testing | `[Name]` | `[Name]` |
-| Documentation | `[Name]` | `[Name]` |
+| Concept and gameplay | Sanvi |Manasvi |
+| Electronics |Manasvi |Sanvi |
+| Coding |Manasvi |Sanvi |
+| Software (Ableton Live & Touchdesigner) |Sanvi| Manasvi|
+| Testing |Both|Both |
+| Documentation |Sanvi  |Manasvi |
 
 ---
 
